@@ -1,6 +1,6 @@
 {
   "name": "mojier",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "find emoji code from alias",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.6.0"
+  },
+  "keywords": ["emoji"],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/sashimizakana/mojier"
   }
 }
