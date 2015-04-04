@@ -1,0 +1,14 @@
+{
+  "name": "mojier",
+  "version": "1.0.0",
+  "description": "find emoji code from alias",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "sashimizakana",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.6.0"
+  }
+}
