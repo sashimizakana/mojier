@@ -21,7 +21,7 @@ mojier.findAlias(emoji);//smile
 
 :smile::smile::smile::smile:
 
-#License
+# License
 
 MIT
 
@@ -51,6 +51,6 @@ mojier.findAlias(emoji);//smile
 
 :smile::smile::smile::smile:
 
-#License
+# License
 
 MIT
