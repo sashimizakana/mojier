@@ -1,5 +1,6 @@
 # mojier(もじゃー)
 emojiの文字をエイリアスから引っ張ってくるやーつ
+
 エイリアスとコードの対応表はgemojiの[emoji.json](https://github.com/github/gemoji/blob/master/db/emoji.json)からつくった。
 
 ## 概要
