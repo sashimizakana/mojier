@@ -1,5 +1,7 @@
 # Mojier
 
+[![npm version](https://badge.fury.io/js/mojier.svg)](http://badge.fury.io/js/mojier)
+
 Mojier find emoji from alias.
 The code map from [gemoji](https://github.com/github/gemoji)/[emoji.json](https://github.com/github/gemoji/blob/master/db/emoji.json).
 
